@@ -1,0 +1,13 @@
+Blackjack is a game of chance.
+This project was created by Kiran Raj (roll number 27) and Jishnu Jeevan (roll number 26)
+of class XII-A of Kendriya Vidhyalaya Ernakulam,
+batch Computer Science (year 2013-2014) in the year 2013
+as an investigatory project for class XII. 
+I, Jishnu Jeevan would like to thank Kiran for his idea for the Blackjack, our computer
+science teacher Mrs. Radha Mohan for her support and her
+guidance and also our friend Jhones Chakalakal of
+class XII-C even though he was not a part of this
+project for teaching us how the data fille handling
+concept can be implemented in this game.
+Thank you all for your support and your guidance.#
+

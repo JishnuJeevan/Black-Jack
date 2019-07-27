@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1563689638 source:e:\software\code blocks projects\balck jack\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<process.h>
+	<time.h>
+
